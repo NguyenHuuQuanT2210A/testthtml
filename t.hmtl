@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="device-width, initial scale=1" />
+    <title>hiiiiii</title>
+
+   </head> 
+   <body>
+    <h1>
+        Chin Chào!
+    </h1>
+    <img width="100" scr="https://sieupet.com/sites/default/files/hinh_anh_meo_dep.jpg" />
+    <div>
+        <h2>
+            Sở thích của mình là:
+        </h2>
+        <ol>
+            <li>chơi game</li>
+            <li>ngủ</li>
+            <li>ăn</li>
+        </ol>
+    </div>
+    <div>
+        <h2>
+            Sở ghét của mình là:
+        </h2>
+        <ol>
+            <li>chả bt ghét gì haha</li>
+        </ol>
+    </div>
+    <div>
+        <h2>
+            Hãy đặt câu hỏi cho mình:
+        </h2>
+        <form>
+            <input type="text" placeholder="điền câu hỏi" />
+            <button>Gửi câu hỏi</button>
+        </form>
+    </div>
+    <div>
+        <h2>
+            các bạn muốn mình nên làm gì vào ngày mai?
+        </h2>
+        <select>
+            <option>chơi</option>
+            <option>học</option>
+        </select>
+    </div>
+    <div>
+        <h2>
+            Liên hệ mình theo các cách sau:
+        </h2>
+        <ul>
+            <li>email : familyquan2004@gmail.com</li>
+            <li>sdt : 0984002524</li>
+            <li>fb : <a href="https://www.facebook.com/profile.php?id=100061703678902"></a>Quân Nguyễn</li>
+        </ul>
+    </div>
+    <foooter>
+        <h3>Các bạn có yêu quý mình không?</h3>
+        <input type="radio" name="yêu quý"> có <input type="radio" name="yêu quý">không
+    </foooter>
+   </body>
+</html>
